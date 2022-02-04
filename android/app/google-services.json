@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953288630092",
+    "project_id": "spacex-57c09",
+    "storage_bucket": "spacex-57c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953288630092:android:afba5e0f67f826cffb39e9",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953288630092-1smbg0l0gq4474endccas8clkgbu0obm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqVm9lddLTzNtAJ9QhugBg0kE3hLJ0rpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953288630092-1smbg0l0gq4474endccas8clkgbu0obm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
